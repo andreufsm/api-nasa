@@ -1,2 +1,2 @@
 # api-nasa
-Simples projeto de api para descobrir quantos astronautas estão em órbita neste momento :)
+Simples projeto usando a API da NASA para saber quantos e quem são os(as) astronautas estão em órbita neste momento :)
